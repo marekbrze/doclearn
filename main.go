@@ -1,5 +1,5 @@
-// Package docexample helps to test documentation generation functions
-package docexample
+// Package doclearn helps to test documentation generation functions
+package doclearn
 
 import "fmt"
 
